@@ -1,4 +1,4 @@
 # text-preprocessing
 
 simple text preprocessing, 
-stopwords using stopword tala
+stopword using stopword tala
